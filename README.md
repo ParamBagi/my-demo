@@ -1,3 +1,3 @@
 # my-demo
 this is my first demo
-author -param
+author -param bagi
